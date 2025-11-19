@@ -1,7 +1,4 @@
 ![image alt](https://github.com/yousufhasany/yousufhasany/blob/main/github-header-banner%20(1).png?raw=true)
-<h1 align="center">Hi , I'm Md. Yousuf</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufhasany&label=Profile%20views&color=0e75b6&style=flat" alt="yousufhasany" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousufhasany" alt="yousufhasany" /></a> </p>
